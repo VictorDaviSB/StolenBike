@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "StolenBike",
-    "slug": "StolenBike",
+    "slug": "stolenbike",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "47fb81bb-b52b-4d2c-8c34-89e127f90f28"
+      }
+    },
+    "owner": "victordavisb"
   }
 }
